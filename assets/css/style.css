@@ -108,7 +108,7 @@ header ul li a:hover{
 }
 
 main{
-	background-image: url("../assets/img/pozadina.jpg");
+	background-image: url("../img/pozadina.jpg");
 	background-repeat: no-repeat;
 	background-size:100% auto;
 	width:100%;
