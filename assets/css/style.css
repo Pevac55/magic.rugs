@@ -7,17 +7,17 @@ cistac{
 
 @font-face{
 	font-family:žnjFont;
-	src: url("https://github.com/Pevac55/Magic_rugs/blob/main/assets/font_family/1_Abraham_Demo.otf");
+	src: url("../../assets/font_family/1_Abraham_Demo.otf");
 }
 
 @font-face{
 	font-family:logoFont;
-	src: url("https://github.com/Pevac55/Magic_rugs/blob/main/assets/font_family/Magica.otf")
+	src: url("../../assets/font_family/Magica.otf")
 }
 
 @font-face{
 	font-family:textFont;
-	src: url("https://github.com/Pevac55/Magic_rugs/blob/main/assets/font_family/KoldbyFree.otf")
+	src: url("../../assets/font_family/KoldbyFree.otf")
 }
 
 @keyframes žnj{
