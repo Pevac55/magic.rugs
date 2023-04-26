@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!DOCTYPE kontakt[
+<!ELEMENT kontakt(kupac*)>
+<!ELEMENT kontakt(ime,prezime,email,textarea?)>
+
+
+
+
+
+
+]>
+<kontakt>
+<kupac>
+<ime>Pera</ime>
+<prezime>Peric</prezime>
+<email>jovan.pavlovic.178.22@ict.edu.rs</email>
+<textarea>Dobar dan</textarea>
+</kupac>
+</kontakt>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
